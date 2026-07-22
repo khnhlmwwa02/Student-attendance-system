@@ -1,4 +1,4 @@
-# ESP32-S3 RFID & Fingerprint Student Attendance System
+<img width="846" height="901" alt="image" src="https://github.com/user-attachments/assets/e83a2eab-a1c2-4c67-bac8-29221fc60cb9" /># ESP32-S3 RFID & Fingerprint Student Attendance System
 
 An IoT-based student attendance system using **ESP32-S3**, **RFID RC522**, and the **AS608 fingerprint sensor**. The system provides two-factor authentication, a local web management interface, cloud data storage through Google Sheets, SMS notifications, LCD status display, and Vietnamese voice feedback.
 
@@ -81,26 +81,6 @@ The prototype was evaluated using student registration, two-factor authenticatio
 - Google Sheets synchronization delay: approximately **1–2 seconds**
 - SMS notification delay: approximately **3–5 seconds**
 - Stable operation during simultaneous Wi-Fi, cloud, audio, and mobile communication tasks
-
-## Repository Structure
-
-This repository uses a simple one-level structure:
-
-```text
-student-attendance-system/
-├── StudentAttendanceSystem.ino
-├── system-diagram.png
-├── schematic.png
-├── pcb-layout.png
-├── pcb-3d-front.png
-├── pcb-3d-back.png
-├── prototype.jpg
-├── project-report.pdf
-└── README.md
-```
-
-Only include files that are available in your project.
-
 ## Setup
 
 1. Install the ESP32 board package in Arduino IDE.
@@ -146,20 +126,3 @@ Use a separate configuration file or placeholder values for public repositories.
 - Support multiple classrooms and attendance devices
 - Add over-the-air firmware updates
 
-## Project Images
-
-Add project images using the following Markdown syntax:
-
-```markdown
-![System Diagram](system-diagram.png)
-![PCB Layout](pcb-layout.png)
-![Hardware Prototype](prototype.jpg)
-```
-
-## Demo
-
-Add a demonstration video or project portfolio link here:
-
-```text
-https://your-demo-link.com
-```
