@@ -1,4 +1,4 @@
-<img width="846" height="901" alt="image" src="https://github.com/user-attachments/assets/e83a2eab-a1c2-4c67-bac8-29221fc60cb9" /># ESP32-S3 RFID & Fingerprint Student Attendance System
+# ESP32-S3 RFID & Fingerprint Student Attendance System
 
 An IoT-based student attendance system using **ESP32-S3**, **RFID RC522**, and the **AS608 fingerprint sensor**. The system provides two-factor authentication, a local web management interface, cloud data storage through Google Sheets, SMS notifications, LCD status display, and Vietnamese voice feedback.
 
@@ -125,4 +125,6 @@ Use a separate configuration file or placeholder values for public repositories.
 - Improve PCB size, enclosure design, and power protection
 - Support multiple classrooms and attendance devices
 - Add over-the-air firmware updates
-
+<img width="846" height="901" alt="image" src="https://github.com/user-attachments/assets/e83a2eab-a1c2-4c67-bac8-29221fc60cb9" />
+<img width="795" height="909" alt="image" src="https://github.com/user-attachments/assets/8a06fa41-135a-474e-ba62-6daac8e0becd" />
+<img width="759" height="788" alt="image" src="https://github.com/user-attachments/assets/617f75f2-00b5-4c6d-ba7f-6e9433bfb91a" />
